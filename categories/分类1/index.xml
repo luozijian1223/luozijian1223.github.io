@@ -2,22 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>分类1 on Luo&#39;s Blog</title>
-    <link>https://luozijian1223.github.io/categories/%E5%88%86%E7%B1%BB1/</link>
+    <link>http://localhost:1313/categories/%E5%88%86%E7%B1%BB1/</link>
     <description>Recent content in 分类1 on Luo&#39;s Blog</description>
     <image>
       <title>Luo&#39;s Blog</title>
-      <url>https://luozijian1223.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://luozijian1223.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 22:36:24 +0800</lastBuildDate>
-    <atom:link href="https://luozijian1223.github.io/categories/%E5%88%86%E7%B1%BB1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 20:30:41 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%88%86%E7%B1%BB1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/tech/testing/</link>
+      <pubDate>Mon, 18 Mar 2024 20:30:41 +0800</pubDate>
+      <guid>http://localhost:1313/posts/tech/testing/</guid>
+      <description>大标题 第一个小标题 Hello, world! 欢迎您！ My pleasure. 第二个小标题————bilibili 三二一，上视频！ &lt;!DOCTYPE HTML&gt; 第三个小标题————YouTube 三二一，上视频！</description>
+    </item>
     <item>
       <title>第一篇博文</title>
-      <link>https://luozijian1223.github.io/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</link>
+      <link>http://localhost:1313/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</link>
       <pubDate>Sun, 17 Mar 2024 22:36:24 +0800</pubDate>
-      <guid>https://luozijian1223.github.io/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
+      <guid>http://localhost:1313/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
       <description>这是我的第一篇博文！</description>
     </item>
   </channel>
