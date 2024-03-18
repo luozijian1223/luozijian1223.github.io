@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luozijian1223.github.io/categories/</loc>
-    <lastmod>2024-03-17T22:36:24+08:00</lastmod>
+    <loc>https://luozijian1223.github.io/posts/tech/</loc>
+    <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
     <loc>https://luozijian1223.github.io/</loc>
-    <lastmod>2024-03-17T22:36:24+08:00</lastmod>
+    <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
     <loc>https://luozijian1223.github.io/posts/</loc>
+    <lastmod>2024-03-18T20:30:41+08:00</lastmod>
+  </url><url>
+    <loc>https://luozijian1223.github.io/categories/</loc>
     <lastmod>2024-03-17T22:36:24+08:00</lastmod>
   </url><url>
     <loc>https://luozijian1223.github.io/tags/</loc>
@@ -33,8 +36,6 @@
     <lastmod>2024-03-17T22:36:24+08:00</lastmod>
   </url><url>
     <loc>https://luozijian1223.github.io/archives/</loc>
-  </url><url>
-    <loc>https://luozijian1223.github.io/posts/tech/</loc>
   </url><url>
     <loc>https://luozijian1223.github.io/posts/read/</loc>
   </url><url>
