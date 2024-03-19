@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/tech/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/tech/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://luozijian1223.github.io:1313/categories/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://luozijian1223.github.io:1313/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://luozijian1223.github.io:1313/tags/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tech/testing/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/tech/testing/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%88%86%E7%B1%BB1/</loc>
+    <loc>https://luozijian1223.github.io:1313/categories/%E5%88%86%E7%B1%BB1/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%88%86%E7%B1%BB2/</loc>
+    <loc>https://luozijian1223.github.io:1313/categories/%E5%88%86%E7%B1%BB2/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <loc>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE1/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <loc>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE2/</loc>
     <lastmod>2024-03-18T20:30:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
     <lastmod>2024-03-17T22:36:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/life/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/life/</loc>
     <lastmod>2024-03-17T22:36:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://luozijian1223.github.io:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/read/</loc>
+    <loc>https://luozijian1223.github.io:1313/posts/read/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://luozijian1223.github.io:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://luozijian1223.github.io:1313/about/</loc>
   </url>
 </urlset>
