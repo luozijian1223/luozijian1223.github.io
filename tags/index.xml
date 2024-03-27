@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Luo&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://luozijian1223.github.io:1313/tags/</link>
     <description>Recent content in Tags on Luo&#39;s Blog</description>
     <image>
       <title>Luo&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://luozijian1223.github.io:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luozijian1223.github.io:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2024 22:01:33 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luozijian1223.github.io:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>光通信</title>
-      <link>http://localhost:1313/tags/%E5%85%89%E9%80%9A%E4%BF%A1/</link>
+      <link>https://luozijian1223.github.io:1313/tags/%E5%85%89%E9%80%9A%E4%BF%A1/</link>
       <pubDate>Wed, 27 Mar 2024 22:01:33 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E5%85%89%E9%80%9A%E4%BF%A1/</guid>
+      <guid>https://luozijian1223.github.io:1313/tags/%E5%85%89%E9%80%9A%E4%BF%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>技术</title>
-      <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</link>
+      <link>https://luozijian1223.github.io:1313/tags/%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Wed, 27 Mar 2024 22:01:33 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://luozijian1223.github.io:1313/tags/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>标签1</title>
-      <link>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <link>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE1/</link>
       <pubDate>Mon, 18 Mar 2024 20:30:41 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <guid>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE1/</guid>
       <description></description>
     </item>
     <item>
       <title>标签2</title>
-      <link>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <link>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE2/</link>
       <pubDate>Mon, 18 Mar 2024 20:30:41 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <guid>https://luozijian1223.github.io:1313/tags/%E6%A0%87%E7%AD%BE2/</guid>
       <description></description>
     </item>
   </channel>
