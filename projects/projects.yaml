@@ -1,0 +1,12 @@
+projects:
+  - name: "天气预报 Weather-app"
+    description: "项目简短描述"
+    github: "https://github.com/luozijian1223/weather-app"
+    image: "/images/projects/project1.png"  # 项目预览图
+    tags: ["Vue", "JavaScript"]
+    
+  - name: "文本编辑器 SimpleEditor"
+    description: "项目简短描述"
+    github: "https://github.com/luozijian1223/SimpleEditor"
+    image: "/images/projects/project2.png"
+    tags: "Python"
