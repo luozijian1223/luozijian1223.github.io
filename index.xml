@@ -11,14 +11,28 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Feb 2025 15:39:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 17:56:48 +0800</lastBuildDate>
     <atom:link href="https://luozijian1223.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《无人生还》：孤岛上的罪恶、审判与人性挣扎</title>
+      <link>https://luozijian1223.github.io/posts/read/%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98/</link>
+      <pubDate>Mon, 03 Mar 2025 17:56:48 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/read/%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98/</guid>
+      <description>阿加莎·克里斯蒂的《无人生还》像一记闷棍，狠狠敲打在我的心上。合上书页，那座与世隔绝的士兵岛，那十个形态各异的小瓷人，以及那首令人毛骨悚然的</description>
+    </item>
     <item>
       <title>Decoder</title>
       <link>https://luozijian1223.github.io/posts/tech/decoder/</link>
       <pubDate>Mon, 17 Feb 2025 15:39:41 +0800</pubDate>
       <guid>https://luozijian1223.github.io/posts/tech/decoder/</guid>
       <description>![[Pasted image 20250218162344.png]] 填充（padding）和掩码（masking）机制 在解码器（decoder）中使用掩码（mask）的目的是确保当前位置的输出仅仅依赖于</description>
+    </item>
+    <item>
+      <title>《等待戈多》：在虚无荒原上建造意义的帐篷</title>
+      <link>https://luozijian1223.github.io/posts/read/%E7%AD%89%E5%BE%85%E6%88%88%E5%A4%9A/</link>
+      <pubDate>Mon, 03 Feb 2025 17:56:48 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/read/%E7%AD%89%E5%BE%85%E6%88%88%E5%A4%9A/</guid>
+      <description>一 弗拉季米尔和爱斯特拉冈反复念叨&amp;quot;我们走吧&amp;quot;，却又立刻自我否定&amp;quot;我们在等待戈多&amp;quot;，这种矛盾的生存状态</description>
     </item>
     <item>
       <title>浏览器</title>
@@ -40,13 +54,6 @@
       <pubDate>Wed, 27 Mar 2024 22:01:33 +0800</pubDate>
       <guid>https://luozijian1223.github.io/posts/tech/%E4%BB%80%E4%B9%88%E6%98%AF%E7%99%BD%E5%85%89%E7%81%B0%E5%85%89%E5%92%8C%E5%BD%A9%E5%85%89/</guid>
       <description>白光 白光定义为：由不同颜色的混合光，包含了光谱中所有颜色（波长），如紫外光、可见光和红外光等，所以其明度最高，称之为“白光”。灰光和彩光也是</description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>https://luozijian1223.github.io/posts/tech/testing/</link>
-      <pubDate>Mon, 18 Mar 2024 20:30:41 +0800</pubDate>
-      <guid>https://luozijian1223.github.io/posts/tech/testing/</guid>
-      <description>大标题 第一个小标题 Hello, world! 欢迎您！ My pleasure. 第二个小标题————bilibili 三二一，上视频！ &lt;!DOCTYPE HTML&gt; 第三个小标题————YouTube 三二一，上视频！</description>
     </item>
     <item>
       <title>第一篇博文</title>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📕文章 on Luo&#39;s Blog</title>
-    <link>https://luozijian1223.github.io/posts/read/</link>
-    <description>Recent content in 📕文章 on Luo&#39;s Blog</description>
+    <title>阅读 on Luo&#39;s Blog</title>
+    <link>https://luozijian1223.github.io/categories/%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 阅读 on Luo&#39;s Blog</description>
     <image>
       <title>Luo&#39;s Blog</title>
       <url>https://luozijian1223.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 03 Mar 2025 17:56:48 +0800</lastBuildDate>
-    <atom:link href="https://luozijian1223.github.io/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luozijian1223.github.io/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《无人生还》：孤岛上的罪恶、审判与人性挣扎</title>
       <link>https://luozijian1223.github.io/posts/read/%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98/</link>
