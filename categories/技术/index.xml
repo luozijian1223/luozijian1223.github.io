@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on Luo&#39;s Blog</title>
+    <link>https://luozijian1223.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Luo&#39;s Blog</description>
+    <image>
+      <title>Luo&#39;s Blog</title>
+      <url>https://luozijian1223.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luozijian1223.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Feb 2025 15:39:41 +0800</lastBuildDate>
+    <atom:link href="https://luozijian1223.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoder</title>
+      <link>https://luozijian1223.github.io/posts/tech/decoder/</link>
+      <pubDate>Mon, 17 Feb 2025 15:39:41 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/tech/decoder/</guid>
+      <description>![[Pasted image 20250218162344.png]] 填充（padding）和掩码（masking）机制 在解码器（decoder）中使用掩码（mask）的目的是确保当前位置的输出仅仅依赖于</description>
+    </item>
+    <item>
+      <title>浏览器</title>
+      <link>https://luozijian1223.github.io/posts/tech/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
+      <pubDate>Sat, 18 Jan 2025 00:28:06 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/tech/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
+      <description>浏览器工作原理 1、User Interface 用户界面，我们所看到的浏览器 2、Browser engine 浏览器引擎，用来查询和操作渲染引擎 3、Rendering engine 用来显</description>
+    </item>
+    <item>
+      <title>大模型微调基础概念</title>
+      <link>https://luozijian1223.github.io/posts/tech/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Fri, 27 Dec 2024 21:01:32 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/tech/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+      <description>0. Prompt 我们每一次访问大模型的输入为一个 Prompt，而大模型给我们的返回结果则被称为 Completion。 Prompt 是输入指令、控制模型行为的主要方式</description>
+    </item>
+    <item>
+      <title>什么是白光、灰光和彩光？</title>
+      <link>https://luozijian1223.github.io/posts/tech/%E4%BB%80%E4%B9%88%E6%98%AF%E7%99%BD%E5%85%89%E7%81%B0%E5%85%89%E5%92%8C%E5%BD%A9%E5%85%89/</link>
+      <pubDate>Wed, 27 Mar 2024 22:01:33 +0800</pubDate>
+      <guid>https://luozijian1223.github.io/posts/tech/%E4%BB%80%E4%B9%88%E6%98%AF%E7%99%BD%E5%85%89%E7%81%B0%E5%85%89%E5%92%8C%E5%BD%A9%E5%85%89/</guid>
+      <description>白光 白光定义为：由不同颜色的混合光，包含了光谱中所有颜色（波长），如紫外光、可见光和红外光等，所以其明度最高，称之为“白光”。灰光和彩光也是</description>
+    </item>
+  </channel>
+</rss>
